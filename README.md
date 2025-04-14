@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Output
+  <img src="https://github.com/sudhan670/blog/blob/main/Screenshot%202025-04-14%20203937.png" />
